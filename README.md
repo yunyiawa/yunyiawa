@@ -1,5 +1,5 @@
 ## Hi there HamiyaYui👋
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=yunyiawa)](https://github.com/stats-organization/github-stats-extended)
 <!--
 **yunyiawa/yunyiawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
